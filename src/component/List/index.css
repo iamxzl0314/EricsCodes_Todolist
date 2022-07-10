@@ -1,0 +1,19 @@
+li{
+    list-style: None;
+    height: 25px;
+    width: 497px;
+    border: 1px solid #cccccc;
+    padding: 5px;
+    margin-left: -42px;
+    margin-top: 5px;
+    
+}
+button{
+    height: 25px;
+    margin-top: 0px;
+    float: right;
+    background-color: rgb(156, 60, 60);
+    display: none;
+    border-style: none;
+}
+

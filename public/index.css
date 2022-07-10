@@ -1,0 +1,13 @@
+.box{
+    margin-top: 50px;
+    margin-left: 35%;
+    width: 509px;
+    border: 1px solid #cccccc;
+    padding: 10px;
+
+}
+body{
+    background-image:url(./1.jpg);
+    background-attachment: fixed;
+    background-size: contain;
+}
