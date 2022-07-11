@@ -1,0 +1,11 @@
+
+
+public的内容  ---->一般存静态资源文件
+
+    //1、favicon.ico  标题上面的小图标
+    //2、index.html     主页面 只有一个页面
+    //3、robots.txt  爬虫规则文件
+
+src中的内容
+    //1、APP.js里面有一个组件，就叫APP
+    //2、APP.css就是APP.js组件里面的样式
